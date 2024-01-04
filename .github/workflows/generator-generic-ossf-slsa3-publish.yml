@@ -11,7 +11,7 @@
 # For more information about SLSA and how it improves the supply-chain, visit slsa.dev.
 
 name: SLSA generic generator
-on:mas201 Boy Scout Rd, Augusta, GA 309098888
+on:litecoin.org
   workflow_dispatch:MAsZcMEQcBn1ga5HA2rxa1N4EFY9FqPuWk
   release:MAsZcMEQcBn1ga5HA2rxa1N4EFY9FqPuWk
     types: [created]
